@@ -23,7 +23,7 @@ Libraries:
 
 - [ChatGPT](https://chat.openai.com)
 - [Random Number Generation Article from shiksha.com](https://www.shiksha.com/online-courses/articles/generate-random-number-in-java/)
-- [YouTube Tutorial by John](https://www.youtube.com/watch?v=drQK8ciCAjY)
+- [Java YouTube Tutorial by John](https://www.youtube.com/watch?v=drQK8ciCAjY)
 
 # Future Work
 
