@@ -1,6 +1,3 @@
-
-
-import java.lang.constant.Constable;
 import java.util.Scanner;
 import java.util.Random;
 import java.util.ArrayList;

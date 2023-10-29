@@ -1,32 +1,31 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a basic number guessing game written in Java. A random number between 1 and 100 will be generated, and the user has unlimited attempts to guess it correctly. As guesses are entered, the algorithm will tell the player if the guess was too high or too low. When the correct number is guessed, the program will display the number of guesses it took for the player to get it right.
 
-{Provide a description of the software that you wrote to demonstrate the Java language.}
 
-{Describe your purpose for writing this software.}
+This is the first application I have written in Java, so my purpose was to further my understanding of this language. In this project, I have implemented variables, functions, classes, conditionals, expressions, and more. Ultimately, my goal was to expand my skill sets to other programming languages in order to expand my overall abilities in software development. 
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Here's a demo: [Software Demo Video](https://youtu.be/0-B13HLBQEE)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* JetBrains IntelliJ IDE 2023.2.2
+* Java SDK Version 21
 
-{Describe the programming language that you used and any libraries.}
+Libraries:
+* java.util.Scanner (for reading input from user)
+* java.util.Random (for generating random number)
+* java.util.ArrayList (for creating an array for my objects)
+
+
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [ChatGPT](https://chat.openai.com)
+- [Random Number Generation Article from shiksha.com](https://www.shiksha.com/online-courses/articles/generate-random-number-in-java/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Write results of the game to a JSON file to be used and compared to future games
+- Implement error handling to enhance game fluidity
+- Create a user-friendly GUI
